@@ -1,0 +1,13 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.genruntimeconfig.cache
